@@ -1,4 +1,4 @@
-include config.mk
+include _config.mk
 
 deploy: contact bind form submit sendmail submit-sendmail url
 
