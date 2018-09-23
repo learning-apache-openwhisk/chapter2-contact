@@ -1,4 +1,4 @@
 _config.mk
 node_modules/
 package-lock.json
-contact/sendmail.zip
+*.zip

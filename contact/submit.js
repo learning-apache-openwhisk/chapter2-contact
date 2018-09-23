@@ -5,7 +5,7 @@ function save(doc)  {
   return ow.actions.invoke({
     "name": "/_/contactdb/write",
     "params": { 
-       "dbname": "contact", 
+       "dbname": "contactdb", 
        "doc": doc 
     }
   })
