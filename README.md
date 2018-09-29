@@ -10,3 +10,5 @@ To deploy, first get
 Then type `./config.sh <user> <pass> <apikey> <sandbox> <recipient>`
 
 You can now deploy with `make deploy` and undeploy with `make clean`
+
+Use `make url` to get the URL to access the contact form.
